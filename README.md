@@ -1,5 +1,8 @@
-# Curso_React_Educacion_IT
+# React + Vite
 
-Codigo utilizado en el curso de React de Educacion IT. Fecha de cursada: Junio 2024
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Stack: Visual Code + Node + npm + Vite
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
